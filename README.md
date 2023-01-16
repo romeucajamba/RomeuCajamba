@@ -7,9 +7,6 @@
 [![Istagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/romeu_cajamba/)
 [![LInKedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.LinKedIn.com/romeuCajamba/)
 
-[![Romeucajamba GitHub stats](https://github-readme-stats.vercel.app/api?username=romeucajamba&show_icons=true&theme=radical)]()
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romeucajamba)](https://github.com/romeucajamba/github=readme-stats)
 
 ### Tecnologias que estou comhecendo e uso no meu dia dia!
 <div style="display: inline_block"><br/>
