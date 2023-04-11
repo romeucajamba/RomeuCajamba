@@ -20,6 +20,6 @@
 </div><br/>
 Apaixonado por Tecnologia. 
 
-![RomeuCajamba Guthub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=romeucajamba&hide_progress=true)](https://github.com/romeucajamba/github-readme-stats)
+[![RomeuCajamba Guthub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=romeucajamba&hide_progress=true)](https://github.com/romeucajamba/github-readme-stats)
 
 ### Meus últimos vídeos podem ser vistos nas redes sociais que eu uso citadas acima!
