@@ -16,5 +16,5 @@
 <img alingn="center" alt="NODE:JS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img alingn="center" alt="MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div><br/>
-Apaixonado por Tecnologia. 
+Apaixonado por linguagens de programação. 
 
