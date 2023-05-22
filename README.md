@@ -16,5 +16,5 @@
 <img alingn="center" alt="NODE:JS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img alingn="center" alt="MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div><br/>
- Desenvolvedor web há 1 ano, sou estudante de Informática. **A paixonado por programação e tenho ela com vida**. Tenho comigo todos os dias esses pensamentos **_Disciplina é melhor do que motivação__Mesmo em dias ruíns e sem vontade a gente de codar__A prática leva a perfeição_**.
+ Desenvolvedor web, estudante de Informática. **A paixonado por programação e tenho ela como vida**. Disciplina é melhor do que motivação__Mesmo em dias ruíns e sem vontade a gente tem que codar__A prática leva a perfeição.
 
