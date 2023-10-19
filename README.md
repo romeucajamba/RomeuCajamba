@@ -1,5 +1,3 @@
-##Passionate about software development##
-
  **Discipline is better than motivation. Practice makes perfect**.
 
 
@@ -23,7 +21,7 @@
 </div>
 
  
- **Technologies I'm learning**
+ **Technology I'm learning**
  <div style="display: inline_block"><br/>
  <img alingn="center" alt="Nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
 </div>
