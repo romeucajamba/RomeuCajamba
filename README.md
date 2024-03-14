@@ -1,25 +1,29 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=708090&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Romeu;I'm+25+years+old;I+graduating+in+Computer+Engineering;I'm+from+Angola;be+welcome%3A)](https://git.io/typing-svg)
+
+<br>
  **Discipline is better than motivation. Practice makes perfect**.
 
-**Technologies I use on a daily basis!**
-<div style="display: inline_block"><br/>
-<img alingn="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img alingn="center" alt="CSS3" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
-<img alingn="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img alingn="center" alt="REACTJS" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
- <img alingn="center" alt="REACT NATIVE" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img alingn="center" alt="PYTHON" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img alingn="center" alt="MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
- <img alingn="center" alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
- <hr/>
+### Main skills:
+<div align="left"> 
+<img align="center" height="70" width="70" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" height="70" width="70" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" height="70" width="70" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="center" alt="Rafa-Ts" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+<img align="center" height="70" width="70" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+<img align="center" alt="Rafa-Nextjs" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+<img align="center" alt="Rafa-Tailwind" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
+<img align="center" alt="Rafa-Python" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img align="center" alt="Rafa-Fastify" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastify/fastify-original.svg">
+<img align="center" height="70" width="70" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+<img align="center" alt="Rafa-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+<img align="center" alt="Rafa-Sqlite3" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
+
 </div>
 
- 
- **Technology I'm learning**
- <div style="display: inline_block"><br/>
- <img alingn="center" alt="Nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-</div>
+ <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=romeucajamba&show=reviews)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romeucajamba)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=romeucajamba&bg_color=000000&color=77767b&line=1a5fb4&point=26a269&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img height="280em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romeucajamba&layout=compact&theme=dracula"/>
+<br/>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=romeucajamba&bg_color=241f31&color=77767b&line=1a5fb4&point=26a269&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
