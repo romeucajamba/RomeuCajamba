@@ -15,7 +15,6 @@
 <img align="center" alt="Rafa-Tailwind" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
 <img align="center" alt="Rafa-Python" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  <img align="center" alt="Rafa-Fastyfy" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastify/fastify-original.svg">
-<img align="center" alt="Rafa-Flask" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
 <img align="center" height="35" width="35" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 <img align="center" alt="Rafa-Mysql" height="50" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 <img align="center" alt="Rafa-Sqlite3" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
