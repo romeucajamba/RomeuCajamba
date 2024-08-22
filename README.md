@@ -23,10 +23,7 @@
 </div>
 
  <br/>
- <div align="left">
-    <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api?username=romeucajamba&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romeucajamba&layout=compact&theme=dracula"/>
- </div>
 <br/>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=romeucajamba&bg_color=241f31&color=77767b&line=1a5fb4&point=26a269&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
